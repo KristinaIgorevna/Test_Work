@@ -1,0 +1,5 @@
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
