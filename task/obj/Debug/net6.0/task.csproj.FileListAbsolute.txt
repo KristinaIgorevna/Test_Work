@@ -3,3 +3,13 @@
 /Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
 /Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.AssemblyInfo.cs
 /Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/bin/Debug/net6.0/task
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/bin/Debug/net6.0/task.deps.json
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/bin/Debug/net6.0/task.dll
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/bin/Debug/net6.0/task.pdb
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.dll
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/refint/task.dll
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.pdb
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/melinekarapetyan/Desktop/GeekBrain/Test_Work/Test_Work/task/obj/Debug/net6.0/ref/task.dll
